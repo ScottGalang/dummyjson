@@ -1,0 +1,17 @@
+{
+    "name": "scottgalang/dummyjson",
+    "autoload": {
+        "psr-4": {
+            "Calvinkent\\Dummyjson\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ScottGalang",
+            "email": "galang.scottrylee@auf.edu.ph"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
